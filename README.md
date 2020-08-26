@@ -3,7 +3,7 @@ a handy bash utility to remove the hastle from initialising new python projects.
 The "APIP" provides utilities to simplify your personal dev-ops experience from creating and connecting to remote code repositiories, initialising version control, and managing virtual environments and deployment requirments. 
 
 ## Installation
-The "APIP" installation requires the use of[Python3] (https://www.python.org/), [GIT] (https://git-scm.com/) & [PIP] (https://pypi.org/project/pip/).
+The "APIP" installation requires the use of [Python3] (https://www.python.org/), [GIT] (https://git-scm.com/) & [PIP] (https://pypi.org/project/pip/).
 '''bash
 git clone ""
 cd apip
