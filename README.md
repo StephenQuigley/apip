@@ -22,9 +22,9 @@ source ~/apip/initsh.sh
 ```
 
 ## Usage
-The "APIP" makes three utilities available to the user; create, activate, and makerequirments. 
+The "APIP" makes three utilities available to the user; initialise, activate, and makerequirments. 
 ### Initialise
-The create function automates the typical tasks involved in starting a project; creating a new directory, readme, requirments file, version control repository, remote repository, and virtual environment.
+The initialise function automates the typical tasks involved in starting a project; creating a new directory, readme, requirments file, version control repository, remote repository, and virtual environment.
 ```bash
 Initialise <projectname>
 ```
@@ -33,7 +33,7 @@ The activate function manages the execution of automatically generated virtual e
 ```bash
 activate <projectname>
 ```
-### Makerequirments
+### MakeRequirments
 The makerequirments function updates the requirments.txt file with up to date deployment dependencies from within the virtual environment.
 ```bash
 makerequirments
